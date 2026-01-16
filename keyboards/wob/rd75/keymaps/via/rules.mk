@@ -1,2 +1,3 @@
 VIA_ENABLE = yes
 EEPROM_DRIVER = custom
+AUTOCORRECT_ENABLE = yes
